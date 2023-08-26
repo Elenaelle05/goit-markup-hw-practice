@@ -1,0 +1,27 @@
+/* .section-activites {
+    padding-bottom: 120px;
+  }
+  
+  .activites-header {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--navyblue);
+    margin-bottom: 72px;
+  }
+  
+  .activites-list {
+    display: flex;
+    gap: 24px;
+  }
+  
+  .activites-item {
+    border: 1px solid #e7e9fc;
+    flex: none;
+    background-color: #ffffff;
+    width: calc((100% - 48px) / 3);
+  } */

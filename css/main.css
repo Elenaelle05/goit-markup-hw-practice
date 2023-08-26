@@ -1,0 +1,14 @@
+@import './utils/variables.css';
+@import './base/common.css';
+@import './base/container.css';
+@import './base/header.css';
+@import './base/hero.css';
+@import './base/goals.css';
+@import './base/activites.css';
+@import './base/team.css';
+@import './base/customers.css';
+@import './base/footer.css';
+@import './base/mobile.css';
+@import './base/modal.css';
+
+

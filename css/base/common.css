@@ -1,0 +1,43 @@
+  
+  body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: var(--white);
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    margin: 0;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+  .link {
+    text-decoration: none;
+  }
+  
+  .list {
+    list-style: none;
+    padding: 0px;
+    gap: 40px;
+    left: 347px;
+    top: 24px;
+  }
